@@ -1,0 +1,52 @@
+@font-face {
+    font-family: AR JULIAN MOD;
+    src: url(ARJULIAN_mod.ttf);
+}
+
+html {
+    background-position: 50%;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('background.jpg');
+    background-size: cover;
+    box-sizing: border-box;
+    height: 100vh;
+}
+
+html img {
+    filter: brightness(50%)
+}
+
+body {
+    margin: 5% auto;
+    max-width: 73%;
+    font-family: AR JULIAN MOD, serif;
+}
+
+#tipp {
+    text-align: center;
+    align-items: center;
+    font-size: 2rem;
+    margin: 1rem;
+}
+
+#container {
+    position: fixed;
+    inset: 0;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#fullscreenButton {
+    align-content: center;
+    align-self: center;
+    background-color: #8a8989;
+    border: none;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
