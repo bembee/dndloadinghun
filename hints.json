@@ -21,7 +21,7 @@
     "label": "A legtöbb dobásnál a sikerességet az méri, hogy sikerült-e magasabbat dobni, mint a Nehézségi fok (DC)."
   },
   {
-    "label": "A támadó dobások sikerét az méri, hogy sikerült-e magasabbat dobni, mint az Armor Class (AC)."
+    "label": "A támadó dobások sikerét az méri, hogy sikerült-e magasabbat dobni, mint a Védettségi Fok (AC)."
   },
   {
     "label": "Ez egy asztali játék, a DM válaszai nincsenek beprogramozva. Gondolkodj a megszokottól eltérően!"
@@ -33,7 +33,7 @@
     "label": "Ne félj a visszavonulástól, ha a harc nem megy jól. Lehet, hogy gyávának tűnik, de a gyávaság általában jobb, mint a halál."
   },
   {
-    "label": "Amikor a DM megkérdezi, hogy \"Tényleg\"? \"Biztos vagy benne?\", mindig mondd, hogy \"Nem\"."
+    "label": "Amikor a DM megkérdezi, hogy \"Tényleg? Biztos vagy benne?\", mindig mondd, hogy \"Nem\"."
   },
   {
     "label": "Tartsd számon a buff varázslataid, bónuszaid, képességeid és büntetéseidet. A DM-ed nem emlékezhet mindenre."
@@ -60,7 +60,7 @@
     "label": "Kezdj bele a szerepkedésbe! Lehet, hogy inspirációs pontot (inspiration point) kapsz, amit felhasználhatsz, hogy előnyhöz juss egy jövőbeli dobásodnál."
   },
   {
-    "label": "Minden pénzérme 10-et ér a következő legalacsonyabb címletből. Az Electrum (ep), amit nem használunk, a kivétel. 1 arany(gp) = 10 ezüst (sp) 1 ezüst (sp) = 10 réz (cp)"
+    "label": "Minden pénzérme 10-et ér a következő legalacsonyabb címletből. Az Electrum (ep), amit nem használunk, a kivétel. 1 arany (gp) = 10 ezüst (sp) 1 ezüst (sp) = 10 réz (cp)"
   },
   {
     "label": "Ha valamiben jártas vagy (proficient), add hozzá a jártassági bónuszodat (proficiency bonus) a dobáshoz. Logikus, nem?"
@@ -189,7 +189,7 @@
     "label": "Elveszíted a kitérés (dodge) akció előnyeit, ha cselekvésképtelen (Incapacitated) vagy ha a sebességed 0-ra csökken."
   },
   {
-    "label": "A segítség (Help) akcióval adhatsz egy szövetségesednek előnyt (Advantage) a következő képességellenőrzésénél (Ability check, vagy akár a következő támadó dobásánál (attack roll)!"
+    "label": "A segítség (Help) akcióval adhatsz egy szövetségesednek előnyt (Advantage) a következő képességellenőrzésénél (Ability check) vagy akár a következő támadó dobásánál (attack roll)!"
   },
   {
     "label": "A rejtőzés (Hide) akcióval egy lopakodási próbát (Stealth check) tehetsz, hogy eltűnj szem elől, ha a környezet ezt lehetővé teszi."
@@ -255,7 +255,10 @@
     "label": "Amíg nem fedeznek fel, vagy nem hagyod abba a rejtőzködést (hide), a Lopakodás (stealth) próbádat bárki, aktívan kereső lény Észlelés (Perception) próbájával vetjük össze."
   },
   {
-    "label": "Nem tudsz elbújni (hide) egy olyan lény elől, amely tisztán lát téged. Valamint elárulod a helyzetedet, ha zajt csapsz"
+    "label": "A passzív észlelés (Passive Perception) azt határozza meg, hogy egy lény észrevesz-e valamit akkor is, ha nem keresi aktívan."
+  },
+  {
+    "label": "Nem tudsz elbújni (hide) egy olyan lény elől, amely tisztán lát téged. Elárulod a helyzetedet, ha zajt csapsz."
   },
   {
     "label": "Egy lassú tempóban (slow pace) haladó társaság egy perc alatt 200 lábat, egy óra alatt 2 mérföldet, egy nap alatt pedig 18 mérföldet tesz meg."
@@ -276,13 +279,19 @@
     "label": "Egy varázslat elvarázslásához legalább a varázslat szintjének megfelelő varázsrekeszt kell felhasználnod. A varázstrükk (cantrip) ingyen van."
   },
   {
-    "label": "A szomatikus komponensű varázslatoknál legalább az egyik kezed szabad kell, hogy legyen a szükséged a gesztusok végrehajtásához."
+    "label": "A szomatikus komponensű varázslatoknál legalább az egyik kezed szabad kell, hogy legyen a szükséges gesztusok végrehajtásához."
   },
   {
     "label": "A verbális komponensű varázslatokhoz tudnod kell beszélni."
   },
   {
-    "label": "Ha egy varázslat azt állítja, hogy egy anyagi komponenst felemészt, akkor minden egyes varázslathoz biztosítanod kell ezt az összetevőt."
+    "label": "Ha egy varázslatnak nem meghatározott értékű komponense van, akkor vagy az összetevővel vagy component pouch-al vagy spellcasting focus-al kell rendelkezned."
+  },
+  {
+    "label": "Ha egy varázslatnak meghatározott értékű komponense van, akkor rendelkezned kell a konkrét összetevővel az elvarázslásához."
+  },
+  {
+    "label": "Ha egy varázslat azt írja, hogy egy anyagi komponenst felemészt, akkor minden egyes varázslathoz biztosítanod kell ezt az összetevőt."
   },
   {
     "label": "Néhány varázslathoz koncentrációra van szükség a folyamatos hatás fenntartásához. Nem tudsz egyszerre két varázslatra koncentrálni."
@@ -294,7 +303,7 @@
     "label": "Nem tudsz koncentrálni, ha cselekvésképtelen (incapacitated) vagy halott (dead) vagy. Ezt tényleg el kell mondani? Jézusom."
   },
   {
-    "label": "A támadási bónuszod varázslatokkal (attack bonus with spells) egyenlő a varázslatkészség módosítóddal (spellcasting ability modifier) plusz a jártassági bónuszoddal (proficiency bonus)."
+    "label": "A \"támadási bónuszod varázslatokkal\" (attack bonus with spells) egyenlő a varázslatkészség módosítóddal (spellcasting ability modifier) plusz a jártassági bónuszoddal (proficiency bonus)."
   },
   {
     "label": "Ha a varázslatodnak támadódobása van te dobsz. Ha a varázslatodnak mentődobása van az ellenség dob."
@@ -306,7 +315,7 @@
     "label": "Ha páncélt viselsz, akkor ahhoz, hogy varázsolni tudj, jártasnak kell lenned abban a páncélban."
   },
   {
-    "label": "Néhány varázslatot magasabb szinten is lehet varázsolni, hogy erősebb hatást érj el, egyes varázstrükkök (cantrip) erősebbek lesznek magasabb szinteken."
+    "label": "Néhány varázslatot magasabb szinten is lehet varázsolni, hogy erősebb hatást érj el. Egyes varázstrükkök (cantrip) erősebbek lesznek magasabb szinteken."
   },
   {
     "label": "Néhány varázslatot rituáléként is el lehet mondani. Ez 10 perccel több időt vesz igénybe, de nem emészt fel varázsrekeszt (spell slot)."
@@ -318,7 +327,7 @@
     "label": "A legtöbb varázslatnak van egy hatótávolsága, amely meghatározza, hogy mit célozhatsz meg. Néhány csak rád hat."
   },
   {
-    "label": "Ugyanannak a varázslat többszöri elmondása nem teszi erősebbé. Csak a legerősebb hatás érvényesül."
+    "label": "Ugyanannak a varázslatnak többszöri elmondása nem teszi erősebbé. Csak a legerősebb hatás érvényesül."
   },
   {
     "label": "A különböző varázslatok hatásai összeadódnak, miközben a varázslatok időtartama átfedésben van."
@@ -327,7 +336,7 @@
     "label": "ha egy varázslatot bónusz akcióként varázsolod el, akkor a köröd alatt csak varázstrükköt (cantrip) varázsolhatsz már."
   },
   {
-    "label": "Néhány varázsló ismeri a varázslatait, és mindig el tudja őket mondani. Más osztályoknak egy listáról kell belkészíteniük a varázslatokat."
+    "label": "Néhány varázsló ismeri a varázslatait és mindig el tudja őket mondani. Más kasztoknak egy listáról kell bekészíteniük (prepare) a varázslatokat."
   },
   {
     "label": "Olyan varázslatok esetében, amelyek varázslása egy akciónál hosszabb időt vesz igénybe, minden fordulóban az akciódat a koncentrációra és a varázslásra kell fordítanod."
@@ -390,9 +399,18 @@
     "label": "Rövid pihenők (short rest) alatt a harcerőkockával (hit dice) dobva visszanyerheted a harcerőpontjaidat (hit point), minden alkalommal hozzáadva az Állóképesség (Con) módosítódat."
   },
   {
-    "label": "A hosszú pihenés (long rest) legalább 8 órát jelent, amely alatt semmi megerőltető tevékenységet nem végezel."
+    "label": "A hosszú pihenés (long rest) legalább 8 órát jelent, amely alatt semmi megerőltető tevékenységet nem végzel."
   },
   {
     "label": "Hosszú pihenés (long rest) alatt visszanyerheted az összes elvesztett harcerőpontod (hp) és az összes harcerőkockád (hit dice) felét."
+  },
+  {
+    "label": "A kalandok közötti időt felhasználhatod a mérgek, sérülések és betegségek kezelésére."
+  },
+  {
+    "label": "A kalandok közötti időt felhasználhatod arra, hogy kutatást végezz, és megnézd, milyen rejtélyeket lehet kibogozni."
+  },
+  {
+    "label": "A kalandok közötti időt felhasználhatod arra, hogy megtanulj egy új nyelvet vagy egy új eszközkészlet használatát."
   }
 ]
