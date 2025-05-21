@@ -1,6 +1,6 @@
 (() => {
   let tipps = [];
-  let last5tippsNumbers = [];
+  let lastXtippsNumbers = [];
   const intervallumTime = 15; // seconds
   const lastxNumber = 5;
   let tippsNumber = 0;
@@ -25,10 +25,10 @@
   function generateRandomTipp() {
     do {
       tippsNumber = generateRandomNumber();
-    } while (last5tippsNumbers.includes(tippsNumber));
+    } while (lastXtippsNumbers.includes(tippsNumber));
 
-    last5tippsNumbers.push(tippsNumber);
-    if (last5tippsNumbers.length > lastxNumber) last5tippsNumbers.shift();
+    lastXtippsNumbers.push(tippsNumber);
+    if (lastXtippsNumbers.length > lastxNumber) lastXtippsNumbers.shift();
 
     return tippsNumber;
   }
