@@ -1,416 +1,416 @@
 [
-   {
-      "label":"A D&D-ben a lehetőségek korlátlanok, a következmények pedig kötelezőek."
-   },
-   {
-      "label":"Sose szakadjatok több felé. SOHA! NEVER SPLIT THE PARTY!"
-   },
-   {
-      "label":"Általánosságban elmondható, hogy ha D&D játék közben egy törtet kapunk, kerekítsük lefelé."
-   },
-   {
-      "label":"Általánosságban elmondható, hogy ha két szám között döntetlen a végeredmény, akkor az nyer, aki dobott."
-   },
-   {
-      "label":"Nincsenek rossz utak, csak olyanok, amelyekre a KM nem készült fel."
-   },
-   {
-      "label":"Egy lény lehet Apró, Kicsi, Közepes, Nagy, Óriási vagy Gigászi méretű."
-   },
-   {
-      "label":"A legtöbb dobásnál a sikerességet az méri, hogy sikerült-e magasabbat dobni, mint a Nehézségi Fok (DC)."
-   },
-   {
-      "label":"A támadó dobások sikerét az méri, hogy sikerült-e magasabbat dobni, mint a Védettségi Fok (AC)."
-   },
-   {
-      "label":"Ez egy asztali játék, a KM válaszai nincsenek beprogramozva. Gondolkodj a megszokottól eltérően!"
-   },
-   {
-      "label":"Legyél óvatos és intelligens, alaposan gondold át a dolgokat. A D&D nem engedi visszatölteni a mentés fájlt."
-   },
-   {
-      "label":"Ne félj a visszavonulástól, ha a harc nem megy jól. Lehet, hogy gyávának tűnik, de a gyávaság általában jobb, mint a halál."
-   },
-   {
-      "label":"Amikor a KM megkérdezi, hogy \"Tényleg? Biztos vagy benne?\", mindig mondd, hogy \"Nem\"."
-   },
-   {
-      "label":"Tartsd számon a buff varázslataid, bónuszaid, tulajdonságaid és büntetéseidet. A KM-ed nem emlékezhet mindenre."
-   },
-   {
-      "label":"A KM szerepe az, hogy a játékosokkal együtt játsszon, nem pedig ellenük. Legalábbis amennyire te tudod."
-   },
-   {
-      "label":"A KM-ek mindig éhesek. Hozz nekik ételt, és lehet, hogy megkegyelmeznek a karakterednek."
-   },
-   {
-      "label":"Bármennyire is jól érzed magad, ne feledd, hogy nem te vagy az egyetlen ember az asztalnál."
-   },
-   {
-      "label":"Próbáld meg gyakran használni a szociális készségeidet. Nem mindig az erőszak a megoldás, talán azzal a szörnyeteggel is meg lehet beszélni a dolgokat."
-   },
-   {
-      "label":"Mindenképpen jegyzetelj a világ történetéről és történelméről. Valószínűleg valaki nagyon keményen dolgozott rajta."
-   },
-   {
-      "label":"A KM-ek szeretnek csapdákat elhelyezni mindenhol. Kérd meg a helyi Zsiványt (Rouge), hogy keresse meg és hatástalanítsa ezeket."
-   },
-   {
-      "label":"Kezdj bele a szerepkedésbe! Lehet, hogy inspirációs pontot (inspiration point) kapsz, amit felhasználhatsz, hogy előnyhöz juss egy jövőbeli dobásodnál."
-   },
-   {
-      "label":"Minden pénzérme 10-et ér a következő legalacsonyabb címletből. Az Electrum (ep), amit nem használunk, a kivétel. 1 arany (gp) = 10 ezüst (sp) 1 ezüst (sp) = 10 réz (cp)"
-   },
-   {
-      "label":"Ha valamiben jártas vagy (proficient), add hozzá a jártasság bónuszodat (proficiency bonus) a dobáshoz. Logikus, nem?"
-   },
-   {
-      "label":"Ha a kampány kezd túl komolyra fordulni számodra, emlékezz arra, hogy a KM-ek gyakran küzdenek azzal, hogy a kocsmákban komolyan tartsák a dolgokat."
-   },
-   {
-      "label":"Ha megváltozik az Állóképesség módosítód (con), akkor a maximum harcerőpontod (hp) is megváltozik."
-   },
-   {
-      "label":"Ha előnyben vagy, dobj kétszer a d20-assal, és vedd a magasabb számot."
-   },
-   {
-      "label":"Ha hátrányban vagy, dobj kétszer a d20-assal, és vedd az alacsonyabb számot."
-   },
-   {
-      "label":"Ha van hátrányod és előnyöd is, akkor ezek kioltják egymást, még akkor is, ha bármelyik többszörösen is előfordul."
-   },
-   {
-      "label":"Az Erő pontszámod (str) azt méri, hogy milyen könnyen tudsz puszta kézzel összezúzni egy paradicsomot."
-   },
-   {
-      "label":"Az Ügyesség pontszámod (dex) azt méri, hogy mennyire tudsz kitérni egy rád dobott paradicsom elől."
-   },
-   {
-      "label":"Az Állóképesség pontszámod (con) azt méri, hogy meg tudsz-e enni egy rohadt paradicsomot hányás nélkül."
-   },
-   {
-      "label":"Az Intelligencia pontszámod (int) azt méri, hogy milyen valószínűséggel tudod, hogy a paradicsom egy gyümölcs."
-   },
-   {
-      "label":"A Bölcsesség pontszámod (wis) azt méri, hogy milyen valószínűséggel tudod, hogy a paradicsomnak nem gyümölcssalátában a helye."
-   },
-   {
-      "label":"A Karizma pontszámod (char) azt méri, hogy mennyire vagy képes eladni egy paradicsom alapú gyümölcssalátát - ami természetesen a salsa."
-   },
-   {
-      "label":"A Tulajdonságpróbáknál (Ability Check) az 1es vagy 20-as dobás nem határozza meg automatikusan a sikert vagy sikertelenséget."
-   },
-   {
-      "label":"Gyakran használj Észlelés próbát (Perception check), hogy lásd, mi történik. Vagy lehetsz egyszerűen csak feledékeny. Rajtad áll."
-   },
-   {
-      "label":"Gyanús az NPC szándéka? Dobj egy Megérzés próbát (Insight check), és válj még gyanakvóbbá!"
-   },
-   {
-      "label":"Használj egy meggyőzés próbát (Persuasion check), hogy megnyerd az embereket, barátkozz vagy alkudozz! Csak a tökfilkók fizetnek teljes árat!"
-   },
-   {
-      "label":"Az Előadás próba (Performance check) lehetőséget ad arra, hogy a játékodat teljes értékű musicallé alakítsd."
-   },
-   {
-      "label":"Az Atlétikai próba (Athletics checks) meghatározza, hogy mennyire jól tudsz fizikai tevékenységeket végezni, például mászni vagy touchdown-t futni."
-   },
-   {
-      "label":"Ha többet szeretnél megtudni a földről, illetve a rajta élő növényekről és állatokról, próbáld ki a Természetismeret próbát (Nature check)."
-   },
-   {
-      "label":"A Szelidítés próba (Animal Handling check) Arra jó, hogy megnézd, fel tudsz-e ülni arra a véletlenszerű lényre, és... nem sok minden másra, őszintén szólva."
-   },
-   {
-      "label":"A Kézügyesség próba (Sleight of Hand check) nagyszerű dolgok ellopásához. Mindig használd! Semmi idegesítő nincs benne!"
-   },
-   {
-      "label":"Az Akrobatika próba (Acrobatics check) akkor használható, ha finom mozgásra van szükséged - vagy ha nagyon-nagyon fel akarsz vágni."
-   },
-   {
-      "label":"A Lopakodás próba (Stealth check) lehetővé teszi, hogy elbújj valami mögé a környéken. Milyen hülyeség lenne, ha csak kissé tudnál leguggolni?"
-   },
-   {
-      "label":"A Mágiaismeret próba (Arcana check) mágiával, eldritch információkkal, misztikus hagyományokkal és egyéb kocka szarságokkal kapcsolatos ismereteidre vonatkozik."
-   },
-   {
-      "label":"A Történelem próba (History check) segítségével felidézheted a történelmet, és végre nyugodtan átmehetsz a polgárháborúról szóló vizsgán."
-   },
-   {
-      "label":"Szeretnél egy deduktív, okos hőst játszani, de a gyenge emberi elméd korlátoz? Dobj Nyomozás próbát (Investigation check)."
-   },
-   {
-      "label":"A Vallás próba (Religion check) segítségével felidézheted a különböző vallásokról szóló tudnivalókat, de ez nem fogja eltörölni a szívedben lévő bűn érzését."
-   },
-   {
-      "label":"Az Orvoslás próbával (Medicine checks) diagnosztizálhatsz egy betegséget vagy stabilizálhatsz valakit. Nem gyógyít meg karaktert! Kérlek, ne kérdezd ezt meg többet."
-   },
-   {
-      "label":"A Természetismeret próba (Nature check) jó, hogy megtudj dolgokat a vadonról, de Túlélésre (Survival) lesz szükséged, ha azt akarod, hogy ne öljön meg."
-   },
-   {
-      "label":"Dobj egy Megtévesztés próbát (Deception check), ha át kell verned valakit! Kérlek, tedd ezt ahelyett, hogy ténylegesen hazudnál a KM-ednek."
-   },
-   {
-      "label":"A Megfélemlítés próbát (Intimidation checks) akkor használod, ha a meggyőzés (Persuasion) és a megtévesztés (Deception) nem vált be, és kezdesz dühös lenni."
-   },
-   {
-      "label":"Az Ellenpróbán (Contest) két résztvevő dob, és az eredményeket egymással, NEM a NF (DC)-vel hasonlítják össze."
-   },
-   {
-      "label":"Ha egy Képzettség verseny (Skill Contest) döntetlen eredményt hoz, a verseny előtti helyzet változatlan marad."
-   },
-   {
-      "label":"Csoportos próbánál (Group Check) a csoportban mindenki dob. Ha a csoport legalább fele sikerrel jár, a próba sikeres."
-   },
-   {
-      "label":"A következő körödig csak 1 reakciód, 1 akciód és 1 bónuszakciód van."
-   },
-   {
-      "label":"A reakciódat felhasználhatod egy Szabad támadásra (opportunity attack), amikor egy általad látható lény a hatókörödön kívülre kerül."
-   },
-   {
-      "label":"Használd a Rohanás (Dash) akciót, ha növelni akarod a mozgásod sebességét az aktuális körben."
-   },
-   {
-      "label":"Ha nem akarod, hogy az ellenség Szabad támadást (Opportunity Attack) intézzen ellened, miközben távolodsz, válaszd a Elszakadás (Disengage) akciót."
-   },
-   {
-      "label":"Aggódsz, hogy könnyen meggyilkolnak? Válaszd a Kitérés (Dodge) akciót, és sokkal nehezebb lesz eltalálni téged."
-   },
-   {
-      "label":"Kitérés (Dodge) közben előnyöd van ügyességi mentődobásoknál (Dexterity saving throws)."
-   },
-   {
-      "label":"Kitérés (Dodge) közben minden ellened irányuló támadó dobás hátrányos, ha látod a támadót."
-   },
-   {
-      "label":"Elveszíted a kitérés (dodge) akció előnyeit, ha cselekvésképtelen (Incapacitated) vagy ha a sebességed 0-ra csökken."
-   },
-   {
-      "label":"A Segítés (Help) akcióval előnyt (Advantage) adhatsz egy szövetségesednek a következő tulajdonságpróbánál (Ability check) vagy akár a következő támadó dobásánál (attack roll)!"
-   },
-   {
-      "label":"A Rejtőzés (Hide) akcióval egy lopakodási próbát (Stealth check) tehetsz, hogy eltűnj szem elől, ha a környezet ezt lehetővé teszi."
-   },
-   {
-      "label":"A Készenlét (ready) akcióval még a következő köröd előtt cselekedhetsz a reakcióddal."
-   },
-   {
-      "label":"Egy művelet bekészítéséhez (ready) meg kell adnod a kiváltó körülményt és azt, hogy mit fogsz tenni, amikor az bekövetkezik."
-   },
-   {
-      "label":"Amikor a készenlét (ready) akció kiváltó oka bekövetkezik: vagy végrehajtod az akciót, vagy figyelmen kívül hagyod a kiváltó okot."
-   },
-   {
-      "label":"A Keresés (search) akcióval egy észlelés (Perception) vagy nyomozás (Investigation) próbát használhatsz, hogy körülnézz."
-   },
-   {
-      "label":"Rosszul belátható területeken pl. gyér fény (dim light), köd (pathy fog) vagy enyhe lombozat (modest foliage) a látással kapcsolatos észlelés próbák (Perception checks) hátrányosak."
-   },
-   {
-      "label":"Nem belátható területeken (heavily obscured) pl. sötétség (darkness), átláthatatlan köd (opaque fog) vagy sűrű lombozat (dense foliage) a lények gyakorlatilag megvakulnak (blinded)."
-   },
-   {
-      "label":"Erős fény (bright light), amelyet a nap és a legtöbb fényforrás biztosít egy bizonyos sugarú körben, a legtöbb élőlény számára lehetővé teszi a normális látást."
-   },
-   {
-      "label":"A Gyér fény (dim light) amelyet a hajnal, az alkonyat és a telihold biztosít, általában az erős fény (bright light) és a sötétség (darkness) közötti határvonalat jelenti."
-   },
-   {
-      "label":"Sötétség (Darkness) amelyet az éjszakai, kivilágítatlan területek vagy a mágikus sötétség (magical darkness) biztosít, megakadályozza, hogy a legtöbb lény normálisan lásson."
-   },
-   {
-      "label":"Egy Vaklátó (blindsight) lény látás nélkül is képes érzékelni a környezetét, csak úgy mint Daredevil."
-   },
-   {
-      "label":"Egy megadott hatótávolságon belül a sötétlátással (darkvision) rendelkező lény úgy lát a sötétben, mintha a sötétség gyér fény (dim light) lenne."
-   },
-   {
-      "label":"Egy Sötétlátással (darkvision) rendelkező lény a sötétben nem képes színeket megkülönböztetni, csak monokróm árnyalatokat."
-   },
-   {
-      "label":"Egy meghatározott hatótávolságon belül egy Igazlátó (truesight) lény nagyjából mindent lát."
-   },
-   {
-      "label":"Zuhanás után a lény minden 10 lábnyi esés után 1d6 zúzó (bludgeoning) sebzést kap, maximum 20d6-ig."
-   },
-   {
-      "label":"Hacsak nem kerüli el a zuhanás okozta sebzést egy lény, az esés végén Elterül (prone)."
-   },
-   {
-      "label":"Egy lény 1 + Állóképesség (con) módosítóval egyenlő számú percig képes visszatartani a lélegzetét (minimum 30 másodperc)."
-   },
-   {
-      "label":"Ha egy lénynek nincs levegője, akkor az Állóképesség (con) módosítóval megegyező számú körig (minimum 1 kör) képes életben maradni."
-   },
-   {
-      "label":"Amikor már nem tud levegő nélkül életben maradni a fuldokló lény, 0 harcerőpontja (hit point) lesz, és haldoklik."
-   },
-   {
-      "label":"A fuldokló lény nem nyerhet vissza harcerőpontot (hit point) és nem stabilizálható, amíg nem kap újra levegőt."
-   },
-   {
-      "label":"Amíg nem fedeznek fel, vagy nem hagyod abba a Rejtőzést (hide), a Lopakodás (stealth) próbádat bárki, aktívan kereső lény Észlelés (Perception) próbájával vetjük össze."
-   },
-   {
-      "label":"A Passzív észlelés (Passive Perception) azt határozza meg, hogy egy lény észrevesz-e valamit akkor is, ha nem keresi aktívan."
-   },
-   {
-      "label":"Nem tudsz Rejtőzni (hide) egy olyan lény elől, amely tisztán lát téged. Valamint elárulod a helyzetedet, ha zajt csapsz."
-   },
-   {
-      "label":"Egy lassú tempóban (slow pace) haladó társaság egy perc alatt 200 lábat, egy óra alatt 2 mérföldet, egy nap alatt pedig 18 mérföldet tesz meg."
-   },
-   {
-      "label":"A Lassú tempóban (slow pace) utazó csapat mozgás közben is használhatja a Lopakodást (stealth)."
-   },
-   {
-      "label":"Egy Normál tempóban (normal place) haladó társaság egy perc alatt 300 lábat, egy óra alatt 3 mérföldet, egy nap alatt pedig 24 mérföldet tesz meg."
-   },
-   {
-      "label":"Egy Gyors tempóban (fast pace) haladó társaság egy perc alatt 400 lábat, egy óra alatt 4 mérföldet, egy nap alatt pedig 30 mérföldet tesz meg."
-   },
-   {
-      "label":"A Gyors tempóban (fast pace) utazó csoport -5 büntetést kap a Passzív észlelés (passive Perception) pontokra."
-   },
-   {
-      "label":"Egy varázslat elvarázslásához legalább a varázslat szintjének megfelelő varázslatrekeszt kell felhasználnod. A Varázstrükk (cantrip) ingyen van."
-   },
-   {
-      "label":"A Szomatikus komponensű varázslatoknál legalább az egyik kezed szabad kell, hogy legyen, a szükséges gesztusok végrehajtásához."
-   },
-   {
-      "label":"A Verbális komponensű varázslatokhoz tudnod kell beszélni."
-   },
-   {
-      "label":"Ha egy varázslatnak nem meghatározott értékű Materiális komponense van, akkor vagy az összetevővel vagy komponenserszénnyel vagy varázslási fókusszal kell rendelkezned."
-   },
-   {
-      "label":"Ha egy varázslatnak meghatározott értékű Materiális komponense van, akkor rendelkezned kell a konkrét összetevővel az elvarázslásához."
-   },
-   {
-      "label":"Ha egy varázslat azt írja le, hogy egy anyagi komponenst elhasználódik, akkor minden egyes varázslás alkalmával biztosítanod kell ezt az összetevőt."
-   },
-   {
-      "label":"Néhány varázslatnál összpontosításra van szükség a folyamatos hatás fenntartásához. Nem tudsz egyszerre két varázslatra összpontosítani."
-   },
-   {
-      "label":"A összpontosítás megőrzéséhez dobj egy Állóképesség (con) próbát, ha sérülést szenvedsz. A Nehézségi fok (DC) 10 vagy a sebzés fele, attól függően, hogy melyik a magasabb."
-   },
-   {
-      "label":"Nem tudsz összpontosítani, ha cselekvésképtelen (incapacitated) vagy halott (dead) vagy. Ezt tényleg el kell mondani? Jézusom."
-   },
-   {
-      "label":"A Varázstámadás-módosítód (attack bonus with spells) egyenlő a Varázslási tulajdonságmódosítóddal (spellcasting ability modifier) plusz a Jártasságbónuszoddal (proficiency bonus)."
-   },
-   {
-      "label":"Ha a varázslatodnak Támadó dobása van te dobsz. Ha a varázslatodnak Mentő dobása van az ellenség dob."
-   },
-   {
-      "label":"A Hosszú pihenés (long rest) visszaállítja az összes elhasznált varázslatrekeszt (spell slot), bár néhány kasztnál a Rövid pihenés is visszaadhat párat."
-   },
-   {
-      "label":"Ha páncélt viselsz, akkor ahhoz, hogy varázsolni tudj, jártasnak kell lenned abban a páncélban."
-   },
-   {
-      "label":"Néhány varázslatot magasabb szinten is lehet varázsolni, hogy erősebb hatást érj el. Egyes Varázstrükkök (cantrip) erősebbek lesznek magasabb szinteken."
-   },
-   {
-      "label":"Néhány varázslatot rituáléként is elvarázsolhatsz. Ez 10 perccel több időt vesz igénybe, de nem emészt fel varázslatrekeszt (spell slot)."
-   },
-   {
-      "label":"Néhány varázslatnak különböző hatásterületei lehetnek mindenféle formában és méretben."
-   },
-   {
-      "label":"A legtöbb varázslatnak van egy hatótávolsága, amely meghatározza, hogy mit célozhatsz meg. Néhány csak rád hat."
-   },
-   {
-      "label":"Ugyanannak a varázslatnak többszöri elmondása nem teszi erősebbé. Csak a legerősebb hatás érvényesül."
-   },
-   {
-      "label":"A különböző varázslatok hatásai összeadódnak, miközben a varázslatok időtartama átfedésben van."
-   },
-   {
-      "label":"ha egy varázslatot bónuszakcióként varázsolsz el, akkor a köröd alatt csak Varázstrükköt (cantrip) varázsolhatsz már."
-   },
-   {
-      "label":"Néhány varázsló ismeri a varázslatait és mindig el tudja őket mondani. Más kasztoknak egy listáról kell előkészíteniük (prepare) a varázslatokat."
-   },
-   {
-      "label":"Olyan varázslat esetén, amelyek varázslása egy akciónál hosszabb időt vesz igénybe, minden fordulóban az akciódat a összpontosításra és a varázslásra kell fordítanod."
-   },
-   {
-      "label":"A harc nem csak a támadásról szól! Kérdezd meg a KM-ed, hogy milyen egyéb akciókat hajthatsz végre a harcban."
-   },
-   {
-      "label":"A Kezdeményezés (initiative) határozza meg a harc sorrendjét. A kezdeményezési bónuszod általában csak az ügyességi (Dexterity) módosítód."
-   },
-   {
-      "label":"Egy kör harc nagyjából 6 másodperc játékidőnek felel meg."
-   },
-   {
-      "label":"Ha Érzékeny (vulnerable) vagy egy sebzéstípussal szemben, akkor kétszeres sebzést kapsz az adott típusból."
-   },
-   {
-      "label":"Ha Ellenálló (resistant) vagy egy sebzéstípussal szemben, akkor az adott sebzéstípus sebzésének felét viseled el."
-   },
-   {
-      "label":"Az Érzékenység vagy Ellenállás többszörös előfordulása csak egyszer számít."
-   },
-   {
-      "label":"Ha 1-est dobsz egy támadó dobásnál (attack roll), akkor automatikusan elhibázod a támadást."
-   },
-   {
-      "label":"Ha 20-at dobsz egy támadó dobásnál (attack roll), akkor automatikusan találsz, és kétszer dobsz az összes sebzéskockával, mielőtt módosítókat adnál hozzá."
-   },
-   {
-      "label":"A Távolsági támadó (ranged attack) dobásaid hátrányban vannak, ha az ellenség 5 lábon belül van, lát téged és nem cselekvésképtelen (incapacitated)."
-   },
-   {
-      "label":"Amikor Közelharci támadással (melee attack) 0 harcerőpontra (hp) csökkentesz egy lényt, dönthetsz úgy, hogy megölés helyett kiütöd."
-   },
-   {
-      "label":"A Félfedezékben (half cover) lévő célpont +2 bónuszt kap Védettségi fokra (AC) és Ügyességi (dex) mentődobásokra."
-   },
-   {
-      "label":"A Háromnegyedes fedezékben (threequarters cover) lévő célpont +5 bónuszt kap Védettségi fokra (AC) és Ügyességi (dex) mentődobásokra."
-   },
-   {
-      "label":"Ahhoz, hogy Közelharci támadást (melee attack) hajthass végre egy lény ellen, annak a hatósugaradon belül kell lennie. A legtöbb lény hatósugara 5 láb."
-   },
-   {
-      "label":"Bónusz akciót használhatsz el egy könnyű közelharci fegyverrel (light melee weapon) való támadásra, miután a másik kezedben lévő fegyverrel támadtál."
-   },
-   {
-      "label":"Hátrányod van olyan lények elleni támadásoknál, amelyeket nem látsz."
-   },
-   {
-      "label":"Előnyben vagy az olyan lények elleni támadásoknál, amelyek nem látnak téged."
-   },
-   {
-      "label":"Van valamilyen Hátrányos állapotod (impairing condition)? Kérdezd meg a KM-ed, hogy mit jelent. Lehet, hogy változtatnod kell a stratégiádon."
-   },
-   {
-      "label":"A Rövid pihenő (short rest) legalább 1 óra, amely alatt semmi megerőltető tevékenységet nem végzel."
-   },
-   {
-      "label":"Rövid pihenők (short rest) alatt a Harcerőkockával (hit dice) dobva visszanyerheted a harcerőpontjaidat (hit point), minden alkalommal hozzáadva az Állóképesség (Con) módosítódat."
-   },
-   {
-      "label":"A Hosszú pihenés legalább 8 órát jelent, amely alatt semmi megerőltető tevékenységet nem végzel."
-   },
-   {
-      "label":"Hosszú pihenés alatt visszanyerheted az összes elvesztett harcerőpontod (hp) és az összes harcerőkockád (hit dice) felét."
-   },
-   {
-      "label":"A kalandok közötti időt felhasználhatod a mérgek, sérülések és betegségek kezelésére."
-   },
-   {
-      "label":"A kalandok közötti időt felhasználhatod arra, hogy kutatást végezz, és megnézd, milyen rejtélyeket lehet kibogozni."
-   },
-   {
-      "label":"A kalandok közötti időt felhasználhatod arra, hogy megtanulj egy új nyelvet vagy egy új eszközkészlet használatát, de ehhez szükséged lesz egy oktatóra."
-   }
+  {
+    "label": " A D&D-ben a lehetőségek korlátlanok, a következmények pedig kötelezőek."
+  },
+  {
+    "label": " Sose szakadjatok több felé. SOHA! NEVER SPLIT THE PARTY!"
+  },
+  {
+    "label": " Általánosságban elmondható, hogy ha egy D&D játék közben törtet kapunk, kerekítsük lefelé."
+  },
+  {
+    "label": " Általánosságban elmondható, hogy ha két szám között döntetlen a végeredmény, akkor az nyer, aki dobott."
+  },
+  {
+    "label": " Nincsenek rossz utak, csak olyanok, amelyekre a KM nem készült fel."
+  },
+  {
+    "label": " Egy lény lehet Apró, Kicsi, Közepes, Nagy, Óriási vagy Gigászi méretű."
+  },
+  {
+    "label": " Legtöbb dobásnál a sikerességet az méri, hogy sikerült-e magasabbat dobni, mint a Nehézségi Fok (DC)."
+  },
+  {
+    "label": " A támadó dobások sikerét az méri, hogy sikerült-e magasabbat dobni, mint a Védettségi Fok (AC)."
+  },
+  {
+    "label": " Ez egy asztali játék, a KM válaszai nincsenek beprogramozva. Gondolkodj a megszokottól eltérően!"
+  },
+  {
+    "label": " Legyél óvatos és intelligens, alaposan gondold át a dolgokat. A D&D nem engedi visszatölteni a mentés fájlt."
+  },
+  {
+    "label": " Ne félj a visszavonulástól, ha a harc nem megy jól. Lehet, hogy gyávának tűnik, de a gyávaság általában jobb, mint a halál."
+  },
+  {
+    "label": " Amikor a DM megkérdezi, hogy \"Tényleg? Biztos vagy benne?\", mindig mondd, hogy \"Nem\"."
+  },
+  {
+    "label": " Tartsd számon a varázslataid, bónuszaid, tulajdonságaid és büntetéseidet. A KM-ed nem emlékezhet mindenre."
+  },
+  {
+    "label": " A KM szerepe az, hogy a játékosokkal együtt játsszon, nem pedig ellenük. Legalábbis amennyire te tudod."
+  },
+  {
+    "label": " A KM-ek mindig éhesek. Hozz nekik ételt, és lehet, hogy megkegyelmeznek a karakterednek."
+  },
+  {
+    "label": " Bármennyire is jól érzed magad, ne feledd, hogy nem te vagy az egyetlen ember az asztalnál."
+  },
+  {
+    "label": " Próbáld meg gyakran használni a szociális készségeidet. Nem mindig az erőszak a megoldás, talán azzal a szörnyeteggel is meg lehet beszélni a dolgokat."
+  },
+  {
+    "label": " Mindenképpen jegyzetelj a világ történetéről és történelméről. Valószínűleg valaki nagyon keményen dolgozott rajta."
+  },
+  {
+    "label": " A KM-ek szeretnek csapdákat elhelyezni mindenhol. Kérd meg a helyi Zsiványt (Rouge), hogy keresse meg és hatástalanítsa ezeket."
+  },
+  {
+    "label": " Kezdj bele a szerepkedésbe! Lehet, hogy inspirációs pontot (inspiration point) kapsz, amit felhasználhatsz, hogy előnyhöz juss egy jövőbeli dobásodnál."
+  },
+  {
+    "label": " Minden pénzérme 10-et ér a következő legmagasabb címletből. Az Electrum (ep), amit nem használunk, a kivétel. 1 arany (gp) = 10 ezüst (sp) 1 ezüst (sp) = 10 réz (cp)"
+  },
+  {
+    "label": " Ha valamiben jártas vagy (proficient), add hozzá a jártasság bónuszodat (proficiency bonus) a dobáshoz. Logikus, nem?"
+  },
+  {
+    "label": " Ha a kampány kezd túl komolyra fordulni számodra, emlékezz arra, hogy a KM-ek gyakran küzdenek azzal, hogy a kocsmákban komolyan tartsák a dolgokat."
+  },
+  {
+    "label": " Ha megváltozik az Állóképesség módosítód (con), akkor a maximum harcerőpontod (hp) is megváltozik."
+  },
+  {
+    "label": " Ha előnyben vagy, dobj kétszer a d20-assal, és vedd a magasabb számot."
+  },
+  {
+    "label": " Ha hátrányban vagy, dobj kétszer a d20assal, és vedd az alacsonyabb számot."
+  },
+  {
+    "label": " Ha van hátrányod és előnyöd is, akkor ezek kioltják egymást. Még akkor is, ha bármelyik többszörösen is előfordul."
+  },
+  {
+    "label": " Az Erő pontszámod (str) azt méri, hogy milyen könnyen tudsz puszta kézzel összezúzni egy paradicsomot."
+  },
+  {
+    "label": " Az Ügyesség pontszámod (dex) azt méri, hogy mennyire tudsz kitérni egy rád dobott paradicsom elől."
+  },
+  {
+    "label": " Az Állóképesség pontszámod (con) azt méri, hogy meg tudsz-e enni egy rohadt paradicsomot hányás nélkül."
+  },
+  {
+    "label": " Az Intelligencia pontszámod (int) azt méri, hogy milyen valószínűséggel tudod, hogy a paradicsom egy gyümölcs."
+  },
+  {
+    "label": " A Bölcsesség pontszámod (wis) azt méri, hogy milyen valószínűséggel tudod, hogy a paradicsomnak nem gyümölcssalátában a helye."
+  },
+  {
+    "label": " A Karizma pontszámod (char) azt méri, hogy mennyire vagy képes eladni egy paradicsom alapú gyümölcssalátát - ami természetesen a salsa."
+  },
+  {
+    "label": " A Tulajdonságpróbáknál (Ability Check) az 1es vagy 20-as dobás nem határozza meg automatikusan a sikert vagy sikertelenséget."
+  },
+  {
+    "label": " Gyakran használj Észlelés próbát (Perception check), hogy lásd, mi történik. Vagy lehetsz egyszerűen csak feledékeny. Rajtad áll."
+  },
+  {
+    "label": " Gyanús az NPC szándéka? Dobj egy Megérzés próbát (Insight check), és válj még gyanakvóbbá!"
+  },
+  {
+    "label": " Használj egy meggyőzés próbát (Persuasion check), hogy megnyerd az embereket, barátkozz vagy alkudozz! Csak a tökfilkók fizetnek teljes árat!"
+  },
+  {
+    "label": " Az Előadás próba (Performance check) lehetőséget ad arra, hogy a játékodat teljes értékű musicallé alakítsd."
+  },
+  {
+    "label": " Az Atlétikai próba (Athletics checks) meghatározza, hogy mennyire jól tudsz fizikai tevékenységeket végezni, például mászni vagy touchdown-t futni."
+  },
+  {
+    "label": " Ha többet szeretnél megtudni a földről, illetve a rajta élő növényekről és állatokról, próbáld ki a Természetismeret próbát (Nature check)."
+  },
+  {
+    "label": " A Szelídítés próba (Animal Handling check) Arra jó, hogy megnézd, fel tudsz-e ülni arra a véletlenszerű lényre, és... nem sok minden másra, őszintén szólva."
+  },
+  {
+    "label": " A Kézügyesség próba (Sleight of Hand check) nagyszerű dolgok ellopásához. Mindig használd! Semmi idegesítő nincs benne!"
+  },
+  {
+    "label": " Az Akrobatika próba (Acrobatics check) akkor használható, ha finom mozgásra van szükséged - vagy ha nagyon-nagyon fel akarsz vágni."
+  },
+  {
+    "label": " A Lopakodás próba (Stealth check) lehetővé teszi, hogy elbújj valami mögé a környéken. Milyen hülyeség lenne, ha csak kissé tudnál leguggolni?"
+  },
+  {
+    "label": " A Mágiaismeret próba (Arcana check) mágiával, eldritch információkkal, misztikus hagyományokkal és egyéb kocka szarságokkal kapcsolatos ismereteidre vonatkozik."
+  },
+  {
+    "label": " A Történelem próba (History check) segítségével felidézheted a történelmet, és végre nyugodtan átmehetsz a polgárháborúról szóló vizsgán."
+  },
+  {
+    "label": " Szeretnél egy deduktív, okos hőst játszani, de a gyenge emberi elméd korlátoz? Dobj Nyomozás próbát (Investigation check)."
+  },
+  {
+    "label": " A Vallás próba (Religion check) segítségével felidézheted a különböző vallásokról szóló tudnivalókat, de ez nem fogja eltörölni a szívedben lévő bűn érzését."
+  },
+  {
+    "label": " Az Orvoslás próbával (Medicine checks) diagnosztizálhatsz egy betegséget vagy stabilizálhatsz valakit. Nem gyógyít meg karaktert! Kérlek, ne kérdezd ezt meg többet."
+  },
+  {
+    "label": " A Természetismeret próba (Nature check) jó, hogy megtudj dolgokat a vadonról, de Túlélésre (Survival) lesz szükséged, ha azt akarod, hogy ne öljön meg."
+  },
+  {
+    "label": " Dobj egy Megtévesztés próbát (Deception check), ha át kell verned valakit! Kérlek, tedd ezt ahelyett, hogy ténylegesen hazudnál a DM-ednek."
+  },
+  {
+    "label": " A Megfélemlítés próbát (Intimidation checks) akkor használod, ha a meggyőzés (Persuasion) és a megtévesztés (Deception) nem vált be, és kezdesz dühös lenni."
+  },
+  {
+    "label": " Az Ellenpróbán (Contest) két résztvevő dob,. Az eredményeket egymással, NEM a NF (DC)-vel hasonlítják össze."
+  },
+  {
+    "label": " Ha egy Képzettség verseny (Skill Contest) döntetlen eredményt hoz, a verseny előtti helyzet változatlan marad."
+  },
+  {
+    "label": " Csoportos próbánál (Group Check) a csoportban mindenki dob. Ha a csoport legalább fele sikerrel jár, a próba sikeres."
+  },
+  {
+    "label": " A következő körödig csak 1 reakciód, 1 akciód és 1 bónuszakciód van."
+  },
+  {
+    "label": " A reakciódat felhasználhatod egy Szabad támadásra (opportunity attack), amikor egy általad látható lény a hatókörödön kívülre kerül."
+  },
+  {
+    "label": " Használd a Rohanás (Dash) akciót, ha növelni akarod a mozgásod sebességét az aktuális körben."
+  },
+  {
+    "label": " Ha nem akarod, hogy az ellenség Szabad támadást (Opportunity Attack) intézzen ellened, miközben távolodsz, válaszd a Elszakadás (Disengage) akciót."
+  },
+  {
+    "label": " Aggódsz, hogy könnyen meggyilkolnak? Válaszd a Kitérés (Dodge) akciót, így sokkal nehezebb lesz eltalálni téged."
+  },
+  {
+    "label": " Kitérés (Dodge) közben előnyöd van ügyességi mentődobásoknál (Dexterity saving throws)."
+  },
+  {
+    "label": " Kitérés (Dodge) közben minden ellened irányuló támadó dobás hátrányos, ha látod a támadót."
+  },
+  {
+    "label": " Elveszíted a kitérés (dodge) akció előnyeit, ha cselekvésképtelen (Incapacitated) lettél vagy a sebességed 0-ra csökken."
+  },
+  {
+    "label": " A Segítés (Help) akcióval előnyt (Advantage) adhatsz egy szövetségesednek a következő tulajdonságpróbánál (Ability check) vagy a következő támadó dobásánál (attack roll)!"
+  },
+  {
+    "label": " A Rejtőzés (Hide) akcióval egy lopakodási próbát (Stealth check) tehetsz, hogy eltűnj szem elől, ha ezta környezet lehetővé teszi."
+  },
+  {
+    "label": " A Készenlét (ready) akcióval még a következő köröd előtt cselekedhetsz a reakcióddal."
+  },
+  {
+    "label": " Egy művelet bekészítéséhez (ready) meg kell adnod a kiváltó körülményt és azt, hogy mit fogsz tenni, amikor az bekövetkezik."
+  },
+  {
+    "label": " Amikor a készenlét (ready) akció kiváltó oka bekövetkezik: vagy végrehajtod az akciót, vagy figyelmen kívül hagyod a kiváltó okot."
+  },
+  {
+    "label": " A Keresés (search) akcióval egy észlelés (Perception) vagy nyomozás (Investigation) próbát használhatsz, hogy körülnézz."
+  },
+  {
+    "label": " Rosszul belátható területeken pl. gyér fény (dim light), köd (pathy fog) vagy enyhe lombozat (modest foliage) a látással kapcsolatos észlelés próbák (Perception checks) hátrányosak."
+  },
+  {
+    "label": " Nem belátható területeken (heavily obscured) pl. sötétség (darkness), átláthatatlan köd (opaque fog) vagy sűrű lombozat (dense foliage) a lények gyakorlatilag megvakulnak (blinded)."
+  },
+  {
+    "label": " Az Erős fény (bright light), amelyet a nap és a legtöbb fényforrás biztosít egy bizonyos sugarú körben, a legtöbb élőlény számára lehetővé teszi a normális látást."
+  },
+  {
+    "label": " A Gyér fény (dim light) amelyet a hajnal, az alkonyat és a telihold biztosít, általában az erős fény (bright light) és a sötétség (darkness) közötti határvonalat jelenti."
+  },
+  {
+    "label": " Sötétség (Darkness) amelyet az éjszakai, kivilágítatlan területek vagy a mágikus sötétség (magical darkness) biztosít, megakadályozza, hogy a legtöbb lény normálisan lásson."
+  },
+  {
+    "label": " Egy Vaklátó (blindsight) lény látás nélkül is képes érzékelni a környezetét, csak úgy mint Daredevil."
+  },
+  {
+    "label": " Egy megadott hatótávolságon belül a sötétlátással (darkvision) rendelkező lény úgy lát a sötétben, mintha a sötétség gyér fény (dim light) lenne."
+  },
+  {
+    "label": " Egy Sötétlátással (darkvision) rendelkező lény a sötétben nem képes színeket megkülönböztetni, csak monokróm árnyalatokat."
+  },
+  {
+    "label": " Egy meghatározott hatótávolságon belül egy Igazlátó (truesight) lény nagyjából mindent lát."
+  },
+  {
+    "label": " Zuhanás után a lény minden 10 lábnyi esés után 1d6 zúzó (bludgeoning) sebzést kap, maximum 20d6-ig."
+  },
+  {
+    "label": " Hacsak nem kerüli el a zuhanás okozta sebzést egy lény, az esés végén Elterül (prone)."
+  },
+  {
+    "label": " Egy lény 1 + Állóképesség (con) módosítóval egyenlő számú percig képes visszatartani a lélegzetét (minimum 30 másodperc)."
+  },
+  {
+    "label": " Ha egy lénynek nincs levegője, akkor az Állóképesség (con) módosítóval megegyező számú körig (minimum 1 kör) képes életben maradni."
+  },
+  {
+    "label": " Amikor már nem tud levegő nélkül életben maradni a fuldokló lény, 0 harcerőpontja (hit point) lesz, és haldoklik."
+  },
+  {
+    "label": " A fuldokló lény nem nyerhet vissza harcerőpontot (hit point) és nem stabilizálható, amíg nem kap újra levegőt."
+  },
+  {
+    "label": " Amíg nem fedeznek fel, vagy nem hagyod abba a Rejtőzést (hide), a Lopakodás (stealth) próbádat, más aktívan kereső lény Észlelés (Perception) próbájával vetjük össze."
+  },
+  {
+    "label": " A Passzív észlelés (Passive Perception) azt határozza meg, hogy egy lény észrevesz-e valamit akkor is, ha nem keresi aktívan."
+  },
+  {
+    "label": " Nem tudsz Rejtőzni (hide) egy olyan lény elől, amely tisztán lát téged. Valamint elárulod a helyzetedet, ha zajt csapsz."
+  },
+  {
+    "label": " Egy lassú tempóban (slow pace) haladó társaság egy perc alatt 200 lábat, egy óra alatt 2 mérföldet, egy nap alatt pedig 18 mérföldet tesz meg."
+  },
+  {
+    "label": " A Lassú tempóban (slow pace) utazó csapat mozgás közben is használhatja a Lopakodást (stealth)."
+  },
+  {
+    "label": " Egy Normál tempóban (normal place) haladó társaság egy perc alatt 300 lábat, egy óra alatt 3 mérföldet, egy nap alatt pedig 24 mérföldet tesz meg."
+  },
+  {
+    "label": " Egy Gyors tempóban (fast pace) haladó társaság egy perc alatt 400 lábat, egy óra alatt 4 mérföldet, egy nap alatt pedig 30 mérföldet tesz meg."
+  },
+  {
+    "label": " A Gyors tempóban (fast pace) utazó csoport -5 büntetést kap a Passzív észlelés (passive Perception) pontokra."
+  },
+  {
+    "label": " Egy varázslat elvarázslásához legalább a varázslat szintjének megfelelő varázslatrekeszt kell felhasználnod. A Varázstrükk (cantrip) ingyen van."
+  },
+  {
+    "label": " A Szomatikus komponensű varázslatoknál legalább az egyik kezed szabad kell, hogy legyen, a szükséges gesztusok végrehajtásához."
+  },
+  {
+    "label": " A Verbális komponensű varázslatokhoz tudnod kell beszélni."
+  },
+  {
+    "label": " Ha egy varázslatnak nem meghatározott értékű Materiális komponense van, akkor vagy az összetevővel vagy komponenserszénnyel vagy varázslási fókusszal kell rendelkezned."
+  },
+  {
+    "label": " Ha egy varázslatnak meghatározott értékű Materiális komponense van, akkor rendelkezned kell a konkrét összetevővel az elvarázslásához."
+  },
+  {
+    "label": " Ha egy varázslat azt írja le, hogy egy anyagi komponenst elhasználódik, akkor minden egyes varázslás alkalmával biztosítanod kell ezt az összetevőt."
+  },
+  {
+    "label": " Néhány varázslatnál összpontosításra van szükség a folyamatos hatás fenntartásához. Nem tudsz egyszerre két varázslatra összpontosítani."
+  },
+  {
+    "label": " A összpontosítás megőrzéséhez dobj egy Állóképesség (con) próbát, ha sérülést szenvedsz. A Nehézségi fok (DC) 10 vagy a sebzés fele, attól függően, hogy melyik a magasabb."
+  },
+  {
+    "label": " Nem tudsz összpontosítani, ha cselekvésképtelen (incapacitated) vagy halott (dead) vagy. Ezt tényleg el kell mondani? Jézusom."
+  },
+  {
+    "label": " A Varázstámadás-módosítód (attack bonus with spells) egyenlő a Varázslási tulajdonságmódosítóddal (spellcasting ability modifier) plusz a Jártasságbónuszoddal (proficiency bonus)."
+  },
+  {
+    "label": " Ha a varázslatodnak Támadó dobása van te dobsz. Ha a varázslatodnak Mentő dobása van az ellenség dob."
+  },
+  {
+    "label": " A Hosszú pihenés (long rest) visszaállítja az összes elhasznált varázslatrekeszt (spell slot), bár néhány kasztnál a Rövid pihenés is visszaadhat párat."
+  },
+  {
+    "label": " Ha páncélt viselsz, akkor ahhoz, hogy varázsolni tudj, jártasnak kell lenned abban a páncélban."
+  },
+  {
+    "label": " Néhány varázslatot magasabb szinten is lehet varázsolni, hogy erősebb hatást érj el. Egyes Varázstrükkök (cantrip) erősebbek lesznek magasabb szinteken."
+  },
+  {
+    "label": " Néhány varázslatot rituáléként is elvarázsolhatsz. Ez 10 perccel több időt vesz igénybe, de nem emészt fel varázslatrekeszt (spell slot)."
+  },
+  {
+    "label": " Néhány varázslatnak különböző hatásterületei lehetnek mindenféle formában és méretben."
+  },
+  {
+    "label": " A legtöbb varázslatnak van egy hatótávolsága, amely meghatározza, hogy mit célozhatsz meg. Néhány csak rád hat."
+  },
+  {
+    "label": " Ugyanannak a varázslatnak többszöri elmondása nem teszi erősebbé. Csak a legerősebb hatás érvényesül."
+  },
+  {
+    "label": " A különböző varázslatok hatásai összeadódnak, miközben a varázslatok időtartama átfedésben van."
+  },
+  {
+    "label": " ha egy varázslatot bónuszakcióként varázsolsz el, akkor a köröd alatt csak Varázstrükköt (cantrip) varázsolhatsz már."
+  },
+  {
+    "label": " Néhány varázsló ismeri a varázslatait és mindig el tudja őket mondani. Más kasztoknak egy listáról kell előkészíteniük (prepare) a varázslatokat."
+  },
+  {
+    "label": " Olyan varázslat esetén, amelyek varázslása egy akciónál hosszabb időt vesz igénybe, minden fordulóban az akciódat összpontosításra és varázslásra kell fordítanod."
+  },
+  {
+    "label": " A harc nem csak a támadásról szól! Kérdezd meg a DM-ed, hogy milyen egyéb akciókat hajthatsz végre a harcban."
+  },
+  {
+    "label": " A Kezdeményezés (initiative) határozza meg a harc sorrendjét. A kezdeményezési bónuszod általában csak az ügyességi (Dexterity) módosítód."
+  },
+  {
+    "label": " Egy kör harc nagyjából 6 másodperc játékidőnek felel meg."
+  },
+  {
+    "label": " Ha Érzékeny (vulnerable) vagy egy sebzéstípussal szemben, akkor kétszeres sebzést kapsz az adott típusból."
+  },
+  {
+    "label": " Ha Ellenálló (resistant) vagy egy sebzéstípussal szemben, akkor az adott sebzéstípus sebzésének felét viseled el."
+  },
+  {
+    "label": " Az Érzékenység (vulnerable) vagy Ellenállás (ressistant) többszörös előfordulása csak egyszer számít."
+  },
+  {
+    "label": " Ha 1-est dobsz egy támadó dobásnál (attack roll), akkor automatikusan elhibázod a támadást."
+  },
+  {
+    "label": " Ha 20-at dobsz egy támadó dobásnál (attack roll), akkor automatikusan találsz, és kétszer dobsz az összes sebzéskockával, mielőtt módosítókat adnál hozzá."
+  },
+  {
+    "label": " A Távolsági támadó (ranged attack) dobásaid hátrányban vannak, ha az ellenség 5 lábon belül van, lát téged és nem cselekvésképtelen (incapacitated)."
+  },
+  {
+    "label": " Amikor Közelharci támadással (melee attack) 0 harcerőpontra (hp) csökkentesz egy lényt, dönthetsz úgy, hogy megölés helyett kiütöd."
+  },
+  {
+    "label": " A Félfedezékben (half cover) lévő célpont +2 bónuszt kap Védettségi fokra (AC) és Ügyességi (dex) mentődobásokra."
+  },
+  {
+    "label": " A Háromnegyedes fedezékben (threequarters cover) lévő célpont +5 bónuszt kap Védettségi fokra (AC) és Ügyességi (dex) mentődobásokra."
+  },
+  {
+    "label": " Ahhoz, hogy Közelharci támadást (melee attack) hajthass végre egy lény ellen, annak a hatósugaradon belül kell lennie. A legtöbb lény hatósugara 5 láb."
+  },
+  {
+    "label": " Bónusz akciót használhatsz el egy könnyű közelharci fegyverrel (light melee weapon) való támadásra, miután a másik kezedben lévő fegyverrel támadtál."
+  },
+  {
+    "label": " Hátrányod van olyan lények elleni támadásoknál, amelyeket nem látsz."
+  },
+  {
+    "label": " Előnyben vagy az olyan lények elleni támadásoknál, amelyek nem látnak téged."
+  },
+  {
+    "label": " Van valamilyen Hátrányos állapotod (impairing condition)? Kérdezd meg a DMed, hogy mit jelent. Lehet, hogy változtatnod kell a stratégiádon."
+  },
+  {
+    "label": " A Rövid pihenő (short rest) legalább 1 óra, amely alatt semmi megerőltető tevékenységet nem végzel."
+  },
+  {
+    "label": " Rövid pihenők (short rest) alatt a Harcerőkockával (hit dice) dobva visszanyerheted a harcerőpontjaidat (hit point), minden alkalommal hozzáadva az Állóképesség (Con) módosítódat."
+  },
+  {
+    "label": " A Hosszú pihenés legalább 8 órát jelent, amely alatt semmi megerőltető tevékenységet nem végzel."
+  },
+  {
+    "label": " Hosszú pihenés alatt visszanyerheted az összes elvesztett harcerőpontod (hp) és az összes harcerőkockád (hit dice) felét."
+  },
+  {
+    "label": " A kalandok közötti időt felhasználhatod a mérgek, sérülések és betegségek kezelésére."
+  },
+  {
+    "label": " A kalandok közötti időt felhasználhatod arra, hogy kutatást végezz, és megnézd, milyen rejtélyeket lehet kibogozni."
+  },
+  {
+    "label": " A kalandok közötti időt felhasználhatod arra, hogy megtanulj egy új nyelvet vagy egy új eszközkészlet használatát, de ehhez szükséged lesz egy oktatóra."
+  }
 ]
